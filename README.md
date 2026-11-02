@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Arun Fernando 👋
 
-<!--
-**arun-fernando/Arun-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering HND Student**  
+💻 Passionate about building web applications, OOP software solutions, and system utility tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tech Stack
+- **Languages:** Java, C++, JavaScript, HTML5, CSS3, SQL
+- **Frameworks & Tools:** Git, GitHub, MySQL, VS Code, IntelliJ IDEA
+
+---
+
+### 📌 Current Focus
+- 🚀 Pursuing Higher National Diploma in Software Engineering
+- 📚 Deepening concepts in Object-Oriented Programming, Data Structures & Databases
+- 🛠️ Open to collaborating on open-source software projects
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/arun-fernando-330001422
+- **Email:** fernandoarun52@gmail.com
+-
